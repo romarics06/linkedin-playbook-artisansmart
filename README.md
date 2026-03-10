@@ -1,5 +1,6 @@
-# linkedin-playbook-artisansmart
 # Stratégie LinkedIn pour artisans BTP : le playbook ArtisanSmart
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Comment expliquer simplement la réforme Factur-X aux artisans,
 partager un parcours de build en public, et créer du contenu LinkedIn
@@ -42,6 +43,7 @@ Si ça aide un artisan à mieux comprendre Factur-X ou un founder
 X : [@artisansmart1](https://x.com/artisansmart1)
 Site : [artisansmart.fr](https://artisansmart.fr)
 
-[<image-card alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" ></image-card>](https://opensource.org/licenses/MIT)
+Des idées pour améliorer les posts ou gérer les critiques ? Ouvre une issue ou envoie-moi un DM sur X @artisansmart1.
 
-https://artisansmart.fr?utm_source=github&utm_medium=readme&utm_campaign=linkedin-playbook
+
+👉 https://artisansmart.fr?utm_source=github&utm_medium=readme&utm_campaign=linkedin-playbook
