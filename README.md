@@ -42,3 +42,6 @@ Si ça aide un artisan à mieux comprendre Factur-X ou un founder
 X : [@artisansmart1](https://x.com/artisansmart1)
 Site : [artisansmart.fr](https://artisansmart.fr)
 
+[<image-card alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" ></image-card>](https://opensource.org/licenses/MIT)
+
+https://artisansmart.fr?utm_source=github&utm_medium=readme&utm_campaign=linkedin-playbook
